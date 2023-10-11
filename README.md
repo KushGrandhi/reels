@@ -12,6 +12,6 @@ python3 autocropper.py
 ```
 3. The outputs will be the root directory in the format of output_cropped000_final.mp4.
 
-##Notes: 
-a. The first run will take few minutes as it will download the pretrained model.
-b. This code will only work with youtube videos that have english captions. Please extract the function Reeler3 to convert any video into a smart focus reel.
+## Notes: 
+1. The first run will take few minutes as it will download the pretrained model.
+2. This code will only work with youtube videos that have english captions. Please extract the function Reeler3 to convert any video into a smart focus reel.
