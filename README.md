@@ -15,3 +15,7 @@ python3 autocropper.py
 ## Notes: 
 1. The first run will take few minutes as it will download the pretrained model.
 2. This code will only work with youtube videos that have english captions. Please extract the function Reeler3 to convert any video into a smart focus reel.
+
+##Future Works:
+1. Change Focus on objects based on Salient Object Detection instead of People Centric Smart Focus.
+2. Use Speech Diarization to identify speakers and map them to faces.
